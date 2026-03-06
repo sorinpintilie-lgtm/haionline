@@ -687,6 +687,7 @@ slider.addEventListener('input', updateSlider);
 updateSlider();
 
 function handleSubmit(btn) {
+  const form = document.getElementById('form');
   const nameInp = document.getElementById('nameInp');
   const phoneInp = document.getElementById('phoneInp');
   const emailInp = document.getElementById('emailInp');
@@ -726,11 +727,17 @@ function handleSubmit(btn) {
   btn.disabled = true;
   
   // Submit to Netlify Forms
-  const form = document.getElementById('form');
-  fetch(form.action || '/', {
+  fetch('/', {
     method: 'POST',
-    body: new FormData(form),
-    headers: { 'Accept': 'application/json' }
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: new URLSearchParams({
+      'form-name': 'contact',
+      name: name,
+      email: email,
+      phone: phone,
+      project_type: projectType,
+      budget: budget
+    })
   })
   .then(response => {
     if (response.ok) {

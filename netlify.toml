@@ -13,8 +13,4 @@
   ]
 
 [[forms.submissions]]
-  email = {
-    from = "noreply@haionline.ro"
-    to = "bogdan.epure@sky.ro,sorin.pintilie@sky.ro"
-    subject = "Nouă cerere de ofertă de pe Sky.ro"
-  }
+  email = { from = "noreply@haionline.ro", to = "bogdan.epure@sky.ro,sorin.pintilie@sky.ro", subject = "Nouă cerere de ofertă de pe Sky.ro" }

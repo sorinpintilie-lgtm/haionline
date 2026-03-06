@@ -1,0 +1,809 @@
+{
+  "default": {
+    "h1": "CONSTRUIM.<br><span class=\"outline\">CREȘTEM.</span><br>TU CÂȘTIGI.",
+    "hero_pill": "Agenție Full Stack & Marketing",
+    "hero_subtitle": "",
+    "seo_keywords": "agenție marketing, creare site web, dezvoltare aplicații",
+    "page_title": "Sky.ro — Agenție Full Stack",
+    "services_title": "SOLUTIILE<br><span class=\"outline\">NOASTRE</span>",
+    "intro_paragraph": "Suntem o agenție de marketing digital și dezvoltare web cu peste 5 ani de experiență. Creăm soluții digitale complete pentru afaceri din România.",
+    "benefits": ["Design modern și profesional", "Optimizare SEO completă", "Site rapid și performant", "Suport tehnic dedicat"],
+    "trust_signals": "Peste 150 de proiecte realizate pentru clienți din România. 50+ clienți activi ne încrede zilnic.",
+    "cta_text": "Solicită ofertă gratuită",
+    "cta_button": "VREAU O OFERTĂ",
+    "faq": [
+      {"question": "Cât costă un site web?", "answer": "Costul depinde de complexitatea și funcționalitățile dorite. Oferim consultanță gratuită pentru a determina cel mai potrivit pachet pentru afacerea ta."},
+      {"question": "Cât durează realizarea unui site?", "answer": "Majoritatea proiectelor sunt finalizate între 2 și 4 săptămâni, în funcție de complexitate."},
+      {"question": "Oferiți suport după lansare?", "answer": "Da, oferim suport tehnic și mentenanță pentru toate proiectele noastre."}
+    ]
+  },
+  "handles": {
+    "creare-site-web": {
+      "category": "servicii",
+      "h1": "CREARE SITE WEB<br><span class=\"outline\">PROFESIONIST</span>",
+      "hero_pill": "Site-uri Web la Cheie",
+      "hero_subtitle": "Construim website-uri moderne, optimizate SEO și responsive pentru afaceri care vor să crească online.",
+      "seo_keywords": "creare site web, site profesional, web design, dezvoltare site web, site prezentare firma, realizare site web, website companie",
+      "page_title": "Creare Site Web Profesionist | Sky.ro",
+      "intro_paragraph": "Creăm site-uri web moderne și optimizate SEO pentru companii care vor să își crească prezența online și să atragă mai mulți clienți. Fie că ai nevoie de un site de prezentare sau un website complex, suntem partenerul tău digital de încredere.",
+      "benefits": ["Design modern și unic", "Optimizare SEO avansată", "Site rapid sub 2 secunde", "Responsive pe toate dispozitivele", "CMS ușor de administrat", "Suport tehnic inclus"],
+      "trust_signals": "Peste 120 de proiecte realizate pentru companii din România. Clienți mulțumiți din toate industriile.",
+      "keyword_variations": ["realizare site web", "dezvoltare website", "site web pentru firme", "creare pagină web", "website profesional"],
+      "cta_text": "Construiește-ți prezența online",
+      "cta_button": "SOLICITĂ OFERTĂ",
+      "faq": [
+        {"question": "Cât costă crearea unui site web?", "answer": "Prețurile pentru creare site web încep de la 500 EUR pentru un site de prezentare simplu. Pentru proiecte mai complexe, costul variază în funcție de cerințe."},
+        {"question": "Cât durează crearea unui site web?", "answer": "Un site de prezentare standard se realizează în 7-14 zile lucrătoare. Proiectele mai complexe pot dura 3-6 săptămâni."},
+        {"question": "Ce include pachetul de creare site web?", "answer": "Pachetul include design personalizat, optimizare SEO de bază, formular de contact, integrare Google Maps, și configurare Google Analytics."},
+        {"question": "Oferiți domeniu și hosting?", "answer": "Da, oferim servicii complete de domeniu și hosting, sau putem lucra cu providerul tău preferat."},
+        {"question": "Cum pot actualiza conținutul site-ului?", "answer": "Toate site-urile noastre includ un sistem de management (CMS) intuitiv, ușor de folosit, fără cunoștințe tehnice."}
+      ]
+    },
+    "realizare-site-web": {
+      "category": "servicii",
+      "h1": "REALIZARE SITE WEB<br><span class=\"outline\">MODERN</span>",
+      "hero_pill": "Soluții Web Complete",
+      "hero_subtitle": "Realizăm site-uri web moderne, rapide și optimizate pentru afaceri care doresc rezultate reale.",
+      "seo_keywords": "realizare site web, site modern, creare site firma, website companie, dezvoltare site",
+      "page_title": "Realizare Site Web Modern | Sky.ro",
+      "intro_paragraph": "Realizăm site-uri web moderne pentru companii care își doresc o prezență online profesională. Echipa noastră combină designul atrăgător cu tehnologia modernă pentru a crea website-uri care convert vizitatorii în clienți.",
+      "benefits": ["Design responsive", "Viteză de încărcare optimizată", "SEO avansat", "Securitate SSL inclusă", "Panou de administrare ușor", "Mentenanță opțională"],
+      "trust_signals": "120+ proiecte finalizate cu succes. Partener de încredere pentru afaceri românești.",
+      "keyword_variations": ["creare site web", "construire website", "site firma", "website profesionist"],
+      "cta_text": "Începe proiectul acum",
+      "cta_button": "VREAU UN SITE",
+      "faq": [
+        {"question": "De ce să aleg realizarea site-ului cu o agenție?", "answer": "O agenție profesionistă asigură design unic, optimizare corectă SEO, și suport tehnic. Rezultatele sunt mult mai bune decât soluțiile DIY."},
+        {"question": "Ce tip de site am nevoie?", "answer": "Depinde de obiectivele tale: site de prezentare pentru visibilitate, magazin online pentru vânzări, sau aplicație web pentru servicii complexe."},
+        {"question": "Se poate modifica site-ul după lansare?", "answer": "Da, oferim modificări și actualizări oricând. Poți gestiona conținutul singur prin CMS-ul inclus."}
+      ]
+    },
+    "creare-magazin-online": {
+      "category": "servicii",
+      "h1": "CREARE MAGAZIN<br><span class=\"outline\">ONLINE</span>",
+      "hero_pill": "E-Commerce Profesionist",
+      "hero_subtitle": "Construim magazine online moderne cu plăți integrate, gestionare stocuri și design responsive.",
+      "seo_keywords": "creare magazin online, magazin virtual, e-commerce, shop online, platformă e-commerce, magazin web",
+      "page_title": "Creare Magazin Online | Sky.ro",
+      "intro_paragraph": "Creăm magazine online profesioniste care te ajută să vinzi mai mult. Fiecare magazin este optimizat pentru conversie și SEO, cu integrare completă de plăți și livrare.",
+      "benefits": ["Design modern și convertibil", "Integrare plăți online", "Gestionare stocuri automată", "Panel admin intuitiv", "Mobile-first design", "SEO e-commerce"],
+      "trust_signals": "50+ magazine online livrate. Clienți din retail, fashion, electronice și multe alte domenii.",
+      "keyword_variations": ["magazin virtual", "shop online", "store online", "e-shop", "comerț electronic"],
+      "cta_text": "Începe să vinzi online",
+      "cta_button": "CREEAZĂ MAGAZIN",
+      "faq": [
+        {"question": "Cât costă un magazin online?", "answer": "Prețurile pentru magazin online încep de la 1.500 EUR pentru versiunea de bază. Include design, integrări de plăți și configurare de bază."},
+        {"question": "Ce plăți pot integra?", "answer": "Integrăm toate metodele de plată populare: Stripe, PayPal, plata ramburs, transfer bancar, șimulte altele."},
+        {"question": "Am nevoie de server propriu?", "answer": "Nu, oferim hosting optimizat pentru e-commerce cu backup automat și securitate inclusă."},
+        {"question": "Pot adăuga produse singur?", "answer": "Da, panoul de administrare este intuitiv și îți permite să adaugi produse, prețuri, imagini și stocuri."},
+        {"question": "Oferiți training pentru utilizare?", "answer": "Da, oferim training complet pentru tine și echipa ta, gratuit după lansare."}
+      ]
+    },
+    "dezvoltare-aplicatii-mobile": {
+      "category": "servicii",
+      "h1": "DEZVOLTARE APLICAȚII<br><span class=\"outline\">MOBILE</span>",
+      "hero_pill": "App Development",
+      "hero_subtitle": "Creăm aplicații mobile native și hibride pentru afaceri care vor să ajungă la clienții lor pe telefon.",
+      "seo_keywords": "dezvoltare aplicații mobile, aplicații iOS, aplicații Android, programare mobile, dezvoltare app",
+      "page_title": "Dezvoltare Aplicații Mobile | Sky.ro",
+      "intro_paragraph": "Dezvoltăm aplicații mobile pentru iOS și Android care ajută afacerile să ajungă la clienții lor. De la idee la lansare, echipa noastră te asistă în tot procesul de dezvoltare.",
+      "benefits": ["Aplicații native iOS", "Aplicații native Android", "Design UI/UX profesional", "API integrări", "Testare și QA", "Publicare în store"],
+      "trust_signals": "30+ aplicații mobile livrate. Experiență în fintech, e-commerce, sănătate și alte domenii.",
+      "keyword_variations": ["programare aplicații mobile", "dezvoltare app", "creare aplicație telefon", "mobile development"],
+      "cta_text": "Transformă idea ta într-o aplicație",
+      "cta_button": "DEZVOLTĂ APLICAȚIE",
+      "faq": [
+        {"question": "Cât costă dezvoltarea unei aplicații mobile?", "answer": "Costul variază între 3.000-15.000 EUR în funcție de complexitate, număr de ecrane și funcționalități."},
+        {"question": "Cât durează dezvoltarea?", "answer": "O aplicație simplă durează 2-3 luni. Aplicațiile complexe pot necesita 4-6 luni de dezvoltare."},
+        {"question": "Aplicațiile sunt native sau hibride?", "answer": "Putem dezvolta atât native cât și hibride, în funcție de cerințele și bugetul tău."},
+        {"question": "Oferiți mentenanță?", "answer": "Da, oferim pachete de mentenanță pentru actualizări, bug fixes și îmbunătățiri continue."}
+      ]
+    },
+    "creare-aplicatie-mobila": {
+      "category": "servicii",
+      "h1": "CREARE APLICAȚIE<br><span class=\"outline\">MOBILĂ</span>",
+      "hero_pill": "App Development",
+      "hero_subtitle": "Construim aplicații mobile profesionale pentru iOS și Android. De la concept la lansare în App Store și Google Play.",
+      "seo_keywords": "creare aplicație mobilă, aplicație telefon, app business, dezvoltare app, aplicație telefonie",
+      "page_title": "Creare Aplicație Mobilă | Sky.ro",
+      "intro_paragraph": "Creăm aplicații mobile pentru afaceri care vor să își extindă prezența pe dispozitivele clienților. O aplicație mobilă este cea mai directă modalitate de a ajunge la publicul tău țintă.",
+      "benefits": ["Design intuitiv", "Performanță optimă", "Securitate avansată", "Notificări push", "Analytics integrat", "Suport tehnic"],
+      "trust_signals": "25+ aplicații lansate în App Store și Google Play. Feedback excelent din partea utilizatorilor.",
+      "keyword_variations": ["dezvoltare aplicație", "programare app", "creare app android", "aplicație ios"],
+      "cta_text": "Pune afacerea în buzunarul clienților",
+      "cta_button": "SOLICITĂ CONSULTANȚĂ",
+      "faq": [
+        {"question": "De ce am nevoie de o aplicație mobilă?", "answer": "O aplicație mobilă crește engagement-ul clienților, oferă acces rapid la servicii și construiește fidelitate față de brand."},
+        {"question": "Ce platforme sunt suportate?", "answer": "Dezvoltăm pentru iOS (iPhone/iPad) și Android. Putem crea și versiuni hibride pentru ambele platforme."},
+        {"question": "Pot testa aplicația înainte de lansare?", "answer": "Da, oferim acces la versiuni de test (Beta) pentru validare înainte de lansarea oficială."}
+      ]
+    },
+    "video-marketing-pentru-firme": {
+      "category": "servicii",
+      "h1": "VIDEO MARKETING<br><span class=\"outline\">PENTRU FIRME</span>",
+      "hero_pill": "Video Content Marketing",
+      "hero_subtitle": "Creăm conținut video profesional pentru promovarea afacerii tale. Video marketing care convertește.",
+      "seo_keywords": "video marketing, marketing video, video reclame, conținut video firme, producție video",
+      "page_title": "Video Marketing pentru Firme | Sky.ro",
+      "intro_paragraph": "Video marketingul este cel mai puternic instrument de promovare online. Creăm video-uri profesionale pentru firmă ta care captează atenția și transmit mesajul tău clar.",
+      "benefits": ["Scriptwriting profesional", "Producție video 4K", "Editare și post-producție", "Animații și grafică", "Voiceover profesionist", "Optimizare pentru media"],
+      " socialtrust_signals": "200+ video-uri produse pentru clienți corporate. Partener pentru companii din toate sectoarele.",
+      "keyword_variations": ["video corporate", "film de prezentare", "video reclame", "conținut video marketing"],
+      "cta_text": "Fă-ți brandul vizibil prin video",
+      "cta_button": "PRODUC VIDEO",
+      "faq": [
+        {"question": "Ce tipuri de video produceți?", "answer": "Producem: video de prezentare, reclame video, tutoriale, animații 2D/3D, conținut pentru social media."},
+        {"question": "Cât costă producția video?", "answer": "Prețurile variază în funcție de complexitate: de la 500 EUR pentru video simplu la 3.000+ EUR pentru producții complexe."},
+        {"question": "Cât durează producția unui video?", "answer": "Un video de prezentare durează 2-3 săptămâni de la brief la livrare finală."},
+        {"question": "Oferiți distribuire?", "answer": "Da, putem gestiona distribuția pe YouTube, Meta, și alte platforme."}
+      ]
+    },
+    "creare-reels-instagram": {
+      "category": "servicii",
+      "h1": "CREARE REELS<br><span class=\"outline\">INSTAGRAM</span>",
+      "hero_pill": "Content Video Social",
+      "hero_subtitle": "Creăm Reels profesionale pentru Instagram care cresc engagement-ul și aduc clienți noi.",
+      "seo_keywords": "creare reels, reels Instagram, video social media, content Instagram, reels business",
+      "page_title": "Creare Reels Instagram | Sky.ro",
+      "intro_paragraph": "Reels sunt cel mai bun mod de a crește organic pe Instagram. Creăm conținut video atractiv pentru business-ul tău care atrage followers și convertește în clienți.",
+      "benefits": ["Idei și concepte creative", "Filmare profesională", "Editare dinamică", "Trendy sounds", "Hashtag strategy", "Consistență editorială"],
+      "trust_signals": "50+ conturi de Instagram gestionate. Crestere medie de 200% în engagement.",
+      "keyword_variations": ["video Instagram", "short-form video", "content reels", "video TikTok"],
+      "cta_text": "Cresc-ți Instagram-ul cu Reels",
+      "cta_button": "ÎNCEPE CREAREA",
+      "faq": [
+        {"question": "Câte Reels produceți pe lună?", "answer": "Oferim pachete de la 4 la 20 Reels pe lună, în funcție de necesitățile tale."},
+        {"question": "Trebuie să apar în video?", "answer": "Nu obligatoriu. Putem crea conținut cu produse, servicii, sau animații care nu necesită prezența ta."},
+        {"question": "Ce durează producția?", "answer": "De la idee la publicare, procesul durează 2-3 zile per Reels."}
+      ]
+    },
+    "administrare-social-media": {
+      "category": "servicii",
+      "h1": "ADMINISTRARE<br><span class=\"outline\">SOCIAL MEDIA</span>",
+      "hero_pill": "Social Media Management",
+      "hero_subtitle": "Gestionăm complet social media-ul afacerii tale. Content, engagement, ads - totul inclus.",
+      "seo_keywords": "administrare social media, management social media, conturi social media, marketing social",
+      "page_title": "Administrare Social Media | Sky.ro",
+      "intro_paragraph": "Administrarea social media este esențială pentru orice afacere modernă. Ne ocupăm de tot - de la crearea conținutului la interacțiunea cu audiența ta.",
+      "benefits": ["Content calendar", "Postări zilnice", "Storys și Reels", "Raportare lunară", "Community management", "Strategie de creștere"],
+      "trust_signals": "60+ conturi gestionate. Clienți mulțumiți din retail, servicii, și HORECA.",
+      "keyword_variations": ["gestionare social media", "social media marketing", "postări social media", "content social"],
+      "cta_text": "Lasă-ne să creștem audiența ta",
+      "cta_button": "SOLICITĂ OFERTĂ",
+      "faq": [
+        {"question": "Ce platforme gestionați?", "answer": "Gestionăm Facebook, Instagram, LinkedIn, TikTok, și YouTube."},
+        {"question": "Cât de des postați?", "answer": "În funcție de pachet, postăm zilnic sau de 3-4 ori pe săptămână, plus stories zilnic."},
+        {"question": "Oferiți și reclame?", "answer": "Da, gestionăm și campaniile publicitare pe toate platformele."}
+      ]
+    },
+    "optimizare-google-maps": {
+      "category": "servicii",
+      "h1": "OPTIMIZARE<br><span class=\"outline\">GOOGLE MAPS</span>",
+      "hero_pill": "Local SEO Maps",
+      "hero_subtitle": "Firma ta apare primul în Google Maps. Vizibilitate locală maximă pentru afacerea ta.",
+      "seo_keywords": "optimizare Google Maps, ranking Google Maps, vizibilitate Maps, local business maps",
+      "page_title": "Optimizare Google Maps | Sky.ro",
+      "intro_paragraph": "Optimizarea Google Maps este crucială pentru firmele locale. Când clienții caută servicii în zona ta, vrei să apari primul. Noi te ajutăm să obții asta.",
+      "benefits": ["Profil Google Business optimizat", "Categorii corecte", "Fotografii profesionale", "Postări regulate", "Management recenzii", "Raportare poziții"],
+      "trust_signals": "200+ firme locale optimizate. Crescăm vizibilitatea cu 300% în medie.",
+      "keyword_variations": ["Google Business Profile", "optimizare Maps", "vizibilitate locală", "SEO local Google"],
+      "cta_text": "Apari primul în Google Maps",
+      "cta_button": "OPTIMIZEAZĂ-MĂ",
+      "faq": [
+        {"question": "Cât de repede văd rezultate?", "answer": "Primele îmbunătățiri apar în 2-4 săptămâni. Rezultatele complete în 2-3 luni."},
+        {"question": "Ce include optimizarea?", "answer": "Completare profil, poze, descriere, categorii, posts, și strategie de recenzii."},
+        {"question": "Lucrați și pentru multiple locații?", "answer": "Da, avem experiență cu lanțuri de magazine și firme cu multiple sedii."}
+      ]
+    },
+    "seo-local-pentru-firme": {
+      "category": "servicii",
+      "h1": "SEO LOCAL<br><span class=\"outline\">PENTRU FIRME</span>",
+      "hero_pill": "Local Search Optimization",
+      "hero_subtitle": "Apari în căutările locale din România. Atrage clienți din zona ta cu SEO local.",
+      "seo_keywords": "SEO local, local SEO, optimizare căutări locale, SEO firma locală, ranking local",
+      "page_title": "SEO Local pentru Firme | Sky.ro",
+      "intro_paragraph": "SEO local te ajută să atragi clienți din zona ta care caută serviciile tale. Suntem specializați în optimizarea pentru căutările locale din România.",
+      "benefits": ["Audit SEO complet", "Optimizare on-page", "Google Business Profile", "Link building local", "Content localizat", "Raportări lunare"],
+      "trust_signals": "150+ clienți cu poziții îmbunătățite. Multe ajunse pe prima pagină Google.",
+      "keyword_variations": ["optimizare SEO local", "SEO zona", "poziționare Google local", "căutări locale"],
+      "cta_text": "Cresc-ți vizibilitatea în zona ta",
+      "cta_button": "ÎNCEPE SEO",
+      "faq": [
+        {"question": "Cât durează SEO local?", "answer": "Primele rezultate apar în 3-6 luni. SEO este un marathon, nu un sprint."},
+        {"question": "Garantați poziția 1?", "answer": "Nimeni nu poate garanta poziția 1. Promitem muncă profesionistă și rezultate măsurabile."},
+        {"question": "Ce include pachetul SEO?", "answer": "Include audit, optimizări tehnice, conținut, link building, și raportare lunară."}
+      ]
+    },
+    "cat-costa-un-site-web": {
+      "category": "preturi",
+      "h1": "CÂT COȘTĂ UN<br><span class=\"outline\">SITE WEB?</span>",
+      "hero_pill": "Prețuri Creare Site",
+      "hero_subtitle": "Află exact cât costă un site web în 2024. Prețuri transparente pentru orice buget.",
+      "seo_keywords": "cât costă un site web, preț site web, cost creare website, prețuri servicii web",
+      "page_title": "Cât Costă un Site Web | Sky.ro",
+      "intro_paragraph": "Cauti cât costă un site web? Oferim prețuri transparente și competitive pentru creare site-uri web profesionale. Află ce include fiecare pachet și alege ce ti se potrivește.",
+      "benefits": ["Prețuri transparente", "Pachete flexibile", "Fără costuri ascunse", "Include hosting", "Suport inclus", "Garanție satisfacție"],
+      "trust_signals": "Prețuri corecte fără surprize. 150+ clienți mulțumiți de raportul calitate-preț.",
+      "keyword_variations": ["preț creare site", "cost site web", "tarife website", "prețuri web design"],
+      "cta_text": "Solicită o ofertă personalizată",
+      "cta_button": "VERIFICĂ PREȚUL",
+      "faq": [
+        {"question": "De ce variază atât de mult prețurile?", "answer": "Prețul depinde de complexitate: design personalizat vs template, număr de pagini, funcționalități speciale, e-commerce."},
+        {"question": "Există costuri lunare?", "answer": "Da, există cost de hosting (30-50 EUR/lună) și domeniu (50 EUR/an). Acestea pot fi incluse sau separate."},
+        {"question": "Pot începe cu un buget mic?", "answer": "Da, avem pachete de la 500 EUR pentru site-uri de prezentare simple."}
+      ]
+    },
+    "pret-creare-site-web": {
+      "category": "preturi",
+      "h1": "PRET CREARE<br><span class=\"outline\">SITE WEB</span>",
+      "hero_pill": "Calculator Preț",
+      "hero_subtitle": "Vezi prețurile pentru creare site web. Oferte transparente pentru toate tipurile de proiecte.",
+      "seo_keywords": "preț creare site web, oferte site web, costuri website, tarife servicii web",
+      "page_title": "Preț Creare Site Web | Sky.ro",
+      "intro_paragraph": "Vrei să știi prețul pentru crearea site-ului tău? Îți oferim o evaluare gratuită și o ofertă personalizată în funcție de cerințele tale specifice.",
+      "benefits": ["Evaluare gratuită", "Ofertă în 24h", "Preț fix garantat", "Plăți în rate", "Suport post-lansare", "Mentenanță opțională"],
+      "trust_signals": "Oferte transparente fără obligații. Fiecare client primește atenție personalizată.",
+      "keyword_variations": ["tarife creare site", "cost realizare website", "preț pachete web", "buget site web"],
+      "cta_text": "Obține oferta ta gratuită",
+      "cta_button": "SOLICITĂ OFERTĂ",
+      "faq": [
+        {"question": "Cum primesc o ofertă?", "answer": "Completează formularul sau ia legătura cu noi. Îți trimitem oferta în maxim 24 de ore."},
+        {"question": "Prețul este fix sau pot negocia?", "answer": "Prețul este orientativ. Pentru proiecte mai mari oferim discounturi."},
+        {"question": "Se poate plăti în rate?", "answer": "Da, oferim opțiuni de plată în 2-6 rate pentru proiecte peste 1.000 EUR."}
+      ]
+    },
+    "cat-costa-un-magazin-online": {
+      "category": "preturi",
+      "h1": "CÂT COȘTĂ UN<br><span class=\"outline\">MAGAZIN ONLINE?</span>",
+      "hero_pill": "Prețuri E-Commerce",
+      "hero_subtitle": "Află cât costă un magazin online complet. Toate costurile transparente, fără surprize.",
+      "seo_keywords": "cât costă un magazin online, preț e-commerce, cost magazin virtual, preț shop online",
+      "page_title": "Cât Costă un Magazin Online | Sky.ro",
+      "intro_paragraph": "Te întrebi cât costă un magazin online? Creăm magazine virtuale complete cu toate funcționalitățile necesare pentru vânzări online de succes.",
+      "benefits": ["Magazin complet", "Plăți integrate", "Stocuri automate", "Design responsive", "SEO e-commerce", "Suport tehnic"],
+      "trust_signals": "50+ magazine online lansate. Clienții noștri vând cu succes de la prima lună.",
+      "keyword_variations": ["preț e-commerce", "cost magazin virtual", "buget shop online", "investiție e-commerce"],
+      "cta_text": "Începe să vinzi online",
+      "cta_button": "VERIFICĂ PREȚUL",
+      "faq": [
+        {"question": "Ce include prețul de bază?", "answer": "Include: design, dezvoltare, integrare plăți, configurare produse (50), și lansare."},
+        {"question": "Sunt costuri lunare?", "answer": "Da, hosting-ul este ~50 EUR/lună. Include securitate, backup, și suport."},
+        {"question": "Pot începe ieftin și upgrade ulterior?", "answer": "Da, avem pachete scalabile. Poți începe cu versiunea basic și adăuga funcționalități."}
+      ]
+    },
+    "pret-magazin-online": {
+      "category": "preturi",
+      "h1": "PRET MAGAZIN<br><span class=\"outline\">ONLINE</span>",
+      "hero_pill": "Tarife E-Commerce",
+      "hero_subtitle": "Vezi prețurile pentru magazin online. Oferte complete pentru vânzări online.",
+      "seo_keywords": "preț magazin online, tarife e-commerce, costuri shop online, prețuri platformă e-commerce",
+      "page_title": "Preț Magazin Online | Sky.ro",
+      "intro_paragraph": "Cauți preț pentru magazin online? Îți oferim o evaluare transparentă și o soluție completă adaptată bugetului tău.",
+      "benefits": ["Soluție completă", "Mentenanță inclusă", "Actualizări gratuite", "Training inclus", "Securitate SSL", "Backup zilnic"],
+      "trust_signals": "Prețuri corecte pentru valoare reală. 0 clienți nemulțumiți în ultimii 3 ani.",
+      "keyword_variations": ["tarife magazin virtual", "cost shop online", "prețuri e-commerce România", "buget magazin online"],
+      "cta_text": "Alege pachetul potrivit",
+      "cta_button": "SOLICITĂ OFERTĂ",
+      "faq": [
+        {"question": "Cum determinăm prețul final?", "answer": "În funcție de număr de produse, funcționalități speciale, integrări, și nivel de customizare."},
+        {"question": "Oferiți discount pentru clienți noi?", "answer": "Da, oferim 10% discount pentru primul proiect."},
+        {"question": "Există contract de mentenanță?", "answer": "Opțional. Poți alege suport lunor sau plăti per intervenție."}
+      ]
+    },
+    "cat-costa-o-aplicatie-mobila": {
+      "category": "preturi",
+      "h1": "CÂT COȘTĂ O<br><span class=\"outline\">APLICAȚIE MOBILĂ?</span>",
+      "hero_pill": "Prețuri Aplicații",
+      "hero_subtitle": "Află costul exact pentru o aplicație mobilă. Prețuri clare pentru iOS și Android.",
+      "seo_keywords": "cât costă o aplicație mobilă, preț app, cost dezvoltare aplicație, tarife programare mobile",
+      "page_title": "Cât Costă o Aplicație Mobilă | Sky.ro",
+      "intro_paragraph": "Dorești să știi cât costă o aplicație mobilă? Costul depinde de complexitate și funcționalități. Îți oferim o evaluare detaliată gratuit.",
+      "benefits": ["Evaluare detaliată", "Deviz complet", "Fără costuri ascunse", "Suport post-lansare", "Actualizări", "Publicare în store"],
+      "trust_signals": "30+ aplicații lansate. Prețuri transparente, fără surprize în facturare.",
+      "keyword_variations": ["preț dezvoltare app", "cost aplicație android", "tarif programare ios", "buget mobile app"],
+      "cta_text": "Obține devizul tău gratuit",
+      "cta_button": "SOLICITĂ EVALUARE",
+      "faq": [
+        {"question": "Ce influențează cel mai mult prețul?", "answer": "Numărul de ecrane, complexitatea funcționalităților, integrările cu alte sisteme, și nivelul de customizare."},
+        {"question": "Există costuri ascunse?", "answer": "Nu. Prețul convenit este cel plătit. Excepție: costuri externe precum conturi Apple/Google Developer."},
+        {"question": "Pot începe cu un MVP?", "answer": "Da, recomandăm să începi cu un MVP (Minimum Viable Product) pentru a testa piața."}
+      ]
+    },
+    "pret-dezvoltare-aplicatie": {
+      "category": "preturi",
+      "h1": "PRET DEZVOLTARE<br><span class=\"outline\">APLICAȚIE</span>",
+      "hero_pill": "Devizi App",
+      "hero_subtitle": "Vezi prețul pentru dezvoltarea aplicației tale. Ofertă detaliată și transparentă.",
+      "seo_keywords": "preț dezvoltare aplicație, cost programare app, tarife dezvoltare mobile, oferte aplicații",
+      "page_title": "Preț Dezvoltare Aplicație | Sky.ro",
+      "intro_paragraph": "Vrei să dezvolți o aplicație? Îți oferim un deviz detaliat și personalizat în funcție de cerințele tale specifice.",
+      "benefits": ["Deviz în 48h", "Etapizare plăți", "Management proiect", "Testare QA", "Lansare store", "Suport 6 luni"],
+      "trust_signals": "Devize transparente și corecte. Niciun client nu a plecat nemulțumit de preț.",
+      "keyword_variations": ["tarif dezvoltare app", "cost programare aplicație", "preț mobile development", "buget app development"],
+      "cta_text": "Solicită devizul tău",
+      "cta_button": "IA OFERTA",
+      "faq": [
+        {"question": "Cum se structează plățile?", "answer": "50% la început, 30% la milestoneul intermediar, 20% la finalizare."},
+        {"question": "Pot primi factură?", "answer": "Da, emitem factură fiscală pentru toate plățile."},
+        {"question": "Există garanție?", "answer": "Da, oferim garanție de 6 luni pentru bug-uri după lansare."}
+      ]
+    },
+    "pret-servicii-marketing-online": {
+      "category": "preturi",
+      "h1": "PRET SERVICII<br><span class=\"outline\">MARKETING ONLINE</span>",
+      "hero_pill": "Tarife Marketing Digital",
+      "hero_subtitle": "Vezi prețurile pentru marketing online. Pakete complete pentru creșterea afacerii tale.",
+      "seo_keywords": "preț servicii marketing online, tarife marketing digital, costuri publicitate online, prețuri SEO",
+      "page_title": "Preț Servicii Marketing Online | Sky.ro",
+      "intro_paragraph": "Marketingul online este esențial pentru creșterea oricărei afaceri. Află prețurile pentru serviciile noastre de marketing digital.",
+      "benefits": ["Strategie personalizată", "Raportare lunară", "Optimizare continuă", "Specialiști certificați", "Tool-uri premium", "Suport dedicat"],
+      "trust_signals": "60+ conturi de advertising gestionate. ROI mediu 300% pentru clienții noștri.",
+      "keyword_variations": ["tarife marketing digital", "preț publicitate online", "costuri SEO", "buget google ads"],
+      "cta_text": "Alege pachetul de marketing",
+      "cta_button": "VERIFICĂ PREȚURILE",
+      "faq": [
+        {"question": "Care este bugetul minim pentru marketing?", "answer": "Recomandăm minimum 500 EUR/lună pentru o campanie eficientă. Bugetul de ads este separat."},
+        {"question": "Ce include pachetul de marketing?", "answer": "Include strategie, management social media, optimizare SEO, și raportare. Publicitatea este separat."},
+        {"question": "Pe ce platforme lucrați?", "answer": "Google Ads, Meta (Facebook/Instagram), LinkedIn, TikTok, și YouTube."}
+      ]
+    },
+    "site-pentru-clinica-dentara": {
+      "category": "industrii",
+      "h1": "SITE PENTRU CLINICA<br><span class=\"outline\">DENTARĂ</span>",
+      "hero_pill": "Web Design Medical",
+      "hero_subtitle": "Creăm site-uri profesionale pentru clinici dentare. Vizibilitate online pentru cabinetul tău stomatologic.",
+      "seo_keywords": "site clinică dentară, website stomatologie, site cabinet stomatologic, prezentare clinică dentară",
+      "page_title": "Site pentru Clinică Dentară | Sky.ro",
+      "intro_paragraph": "Clinica ta dentară merită un site web profesional. Creăm website-uri pentru clinici dentare care atrag pacienți noi și construiesc încredere.",
+      "benefits": ["Design medical profesionist", "Secțiune servicii complete", "Formular programare online", "Galerie Before/After", "SEO pentru stomatologie", "Mobile responsive"],
+      "trust_signals": "30+ clinici dentare ca clienți. Multe din ele primesc 20+ programări lunare de pe site.",
+      "keyword_variations": ["site stomatologie", "website cabinet dentar", "site clinică stomatologie", "promovare clinică dentară"],
+      "cta_text": "Cresc-ți numărul de pacienți",
+      "cta_button": "SOLICITĂ OFERTĂ",
+      "faq": [
+        {"question": "Ce trebuie să aibă un site de clinică dentară?", "answer": "Lista servicii, echipa medicală, galeria de rezultate, programare online, și informații de contact."},
+        {"question": "Pot pacienții să se programeze direct?", "answer": "Da, integrăm formulare de programare sau conectăm cu sistemul tău existent."},
+        {"question": "Include optimizare locală?", "answer": "Da, optimizăm pentru căutări precum 'stomatolog [oraș]' sau 'clinică dentară aproape de mine'."}
+      ]
+    },
+    "site-pentru-cabinet-stomatologic": {
+      "category": "industrii",
+      "h1": "SITE PENTRU CABINET<br><span class=\"outline\">STOMATOLOGIC</span>",
+      "hero_pill": "Website Cabinet Medical",
+      "hero_subtitle": "Site profesional pentru cabinetul stomatologic. Atrage pacienți noi cu un site modern.",
+      "seo_keywords": "site cabinet stomatologic, website medic dentist, site clinică dentară, prezentare stomatologie",
+      "page_title": "Site pentru Cabinet Stomatologic | Sky.ro",
+      "intro_paragraph": "Un site web este cea mai bună investiție pentru cabinetul tău stomatologic. Ajutăm stomatologii să atragă pacienți noi din căutările online.",
+      "benefits": ["Design curat și profesionist", "Prezentare servicii", "Fotografii echipă", "SEO local", "Formular contact", "Hartă Google integrată"],
+      "trust_signals": "20+ cabinete stomatologice clienți. Programări noi în fiecare lună.",
+      "keyword_variations": ["site dentist", "website medic stomatolog", "promovare cabinet stomatologic"],
+      "cta_text": "Atrage pacienți din online",
+      "cta_button": "ÎNCEPE PROIECTUL",
+      "faq": [
+        {"question": "Cât de repede pot avea site-ul?", "answer": "În 2-3 săptămâni de la furnizarea conținutului."},
+        {"question": "Pot actualiza singur serviciile?", "answer": "Da,CMS-ul este intuitiv și îți permite modificări ușoare."}
+      ]
+    },
+    "site-pentru-restaurant": {
+      "category": "industrii",
+      "h1": "SITE PENTRU<br><span class=\"outline\">RESTAURANT</span>",
+      "hero_pill": "Website Restaurante",
+      "hero_subtitle": "Site profesional pentru restaurant. Meniu online, rezervări și promovare într-un singur loc.",
+      "seo_keywords": "site restaurant, website restaurant, meniu online, site local gastronomic, prezentare restaurant",
+      "page_title": "Site pentru Restaurant | Sky.ro",
+      "intro_paragraph": "Restaurantul tău merită un site care să impresioneze. Creăm website-uri pentru restaurante cu meniu digital, sistem de rezervări și design atrăgător.",
+      "benefits": ["Meniu digital interactiv", "Sistem rezervări online", "Galerie foto profesională", "Integrări delivery", "SEO local", "Design responsive"],
+      "trust_signals": "40+ restaurante clienți. Rezervări și comenzi noi zilnic.",
+      "keyword_variations": ["site restaurant online", "meniu digital restaurant", "website local food"],
+      "cta_text": "Crește-ți numărul de clienți",
+      "cta_button": "SOLICITĂ OFERTĂ",
+      "faq": [
+        {"question": "Pot actualiza meniul zilnic?", "answer": "Da, din panoul de admin poți modifica preparate, prețuri, și disponibilitate."},
+        {"question": "Se poate integra cu Glovo/Takeaway?", "answer": "Da, adăugăm linkuri sau integrări directe cu platformele de delivery."},
+        {"question": "Include fotografii?", "answer": "Poți furniza fotografiile tale sau putem organiza o ședință foto profesională."}
+      ]
+    },
+    "site-pentru-hotel": {
+      "category": "industrii",
+      "h1": "SITE PENTRU<br><span class=\"outline\">HOTEL</span>",
+      "hero_pill": "Website Hoteluri",
+      "hero_subtitle": "Site profesional pentru hotel sau pensiune. Rezervări directe și promovare online.",
+      "seo_keywords": "site hotel, website hotel, rezervări hotel, site pensiune, prezentare unitate de cazare",
+      "page_title": "Site pentru Hotel | Sky.ro",
+      "intro_paragraph": "Site-ul hotelului tău este fața ta în online. Creăm website-uri pentru hoteluri care atrag oaspeți și cresc rezervările directe.",
+      "benefits": ["Booking engine integrat", "Galerie camere", "Facilități hotel", "Blog evenimente", "SEO pentru turism", "Multi-language"],
+      "trust_signals": "25+ hoteluri și pensiuni clienți. Rezervări directe crescute cu 40% în medie.",
+      "keyword_variations": ["site pensiune", "website unitate de cazare", "promovare hotel online"],
+      "cta_text": "Cresc-ți rezervările directe",
+      "cta_button": "SOLICITĂ DEMO",
+      "faq": [
+        {"question": "Pot gestiona disponibilitatea camerelor?", "answer": "Da, sistemul de booking gestionează disponibilitatea în timp real."},
+        {"question": "Funcționează cu channel manager?", "answer": "Da, integrăm cu principalii channel managers (SiteMinder, BookingSync, etc)."}
+      ]
+    },
+    "site-pentru-salon-infrumusetare": {
+      "category": "industrii",
+      "h1": "SITE PENTRU SALON<br><span class=\"outline\">ÎNFRUMUSEȚARE</span>",
+      "hero_pill": "Web Design Beauty",
+      "hero_subtitle": "Site profesional pentru salon de înfrumusețare. Programări online și portofoliu de servicii.",
+      "seo_keywords": "site salon înfrumusețare, website salon beautyspa, site coafor, prezentare salon cosmetică",
+      "page_title": "Site pentru Salon Înfrumusețare | Sky.ro",
+      "intro_paragraph": "Salonul tău de înfrumusețare merită un site care să reflecte calitatea serviciilor. Creăm website-uri frumoase care aduc cliente noi.",
+      "benefits": ["Portofoliu servicii", "Sistem programări", "Galerie lucrări", "Before/After", "SEO local", "Design elegant"],
+      "trust_signals": "35+ saloane clienți. Programări noi în fiecare zi de pe site.",
+      "keyword_variations": ["site coafor", "website salon beautyspa", "site cosmetică"],
+      "cta_text": "Atrage cliente noi",
+      "cta_button": "ÎNCEPE ACUM",
+      "faq": [
+        {"question": "Pot programa cliente direct de pe site?", "answer": "Da, integrăm sistemul tău de programări sau oferim unul gratuit."},
+        {"question": "Include SEO pentru salon?", "answer": "Da, optimizăm pentru căutări locale precum 'salon [oraș]' sau 'coafor [zonă]'."}
+      ]
+    },
+    "site-pentru-agentie-imobiliara": {
+      "category": "industrii",
+      "h1": "SITE PENTRU AGENȚIE<br><span class=\"outline\">IMOBILIARĂ</span>",
+      "hero_pill": "Website Imobiliare",
+      "hero_subtitle": "Site profesional pentru agenție imobiliară. Portofoliu proprietăți și generare lead-uri.",
+      "seo_keywords": "site agenție imobiliară, website imobiliar, portal proprietăți, site broker imobiliar",
+      "page_title": "Site pentru Agenție Imobiliară | Sky.ro",
+      "intro_paragraph": "Agenția ta imobiliară are nevoie de un site puternic pentru a genera lead-uri. Creăm platforme imobiliare care convert vizitatorii în clienți.",
+      "benefits": ["Portal proprietăți avansat", "Filtre complexe", "Hartă interactivă", "Lead capture forms", "SEO imobiliar", "Design modern"],
+      "trust_signals": "15+ agenții imobiliare clienți. Mii de lead-uri generate lunar.",
+      "keyword_variations": ["website proprietăți", "site broker imobiliar", "portal imobiliar"],
+      "cta_text": "Generați mai multe lead-uri",
+      "cta_button": "SOLICITĂ OFERTĂ",
+      "faq": [
+        {"question": "Pot importa proprietăți automat?", "answer": "Da, integrăm cu feed-uri XML de la principalii furnizori imobilari."},
+        {"question": "Include CRM imobiliar?", "answer": "Opțional, integrăm cu CRM-uri populare sau oferim unul basic."}
+      ]
+    },
+    "site-pentru-cabinet-avocat": {
+      "category": "industrii",
+      "h1": "SITE PENTRU CABINET<br><span class=\"outline\">AVOCAT</span>",
+      "hero_pill": "Website Avocatură",
+      "hero_subtitle": "Site profesional pentru cabinet de avocatură. Credibilitate și atragere de clienți.",
+      "seo_keywords": "site cabinet avocat, website cabinet juridic, site lawyer, prezentare servicii juridice",
+      "page_title": "Site pentru Cabinet Avocat | Sky.ro",
+      "intro_paragraph": "Un site profesional este esențial pentru orice cabinet de avocatură. Construim încredere și autoritate online pentru avocați.",
+      "benefits": ["Design sobru și profesionist", "Prezentare arii de practică", "Echipa de avocați", "Blog juridic", "Formular consultații", "SEO pentru avocatură"],
+      "trust_signals": "20+ cabinete de avocatură clienți. Consultații noi din online lunar.",
+      "keyword_variations": ["site cabinet juridic", "website avocat", "site law firm"],
+      "cta_text": "Construiește-ți autoritatea online",
+      "cta_button": "SOLICITĂ OFERTĂ",
+      "faq": [
+        {"question": "Ce trebuie să includă un site de avocat?", "answer": "Arii de practică, experiența avocaților, testimoniale, și modalități de contact."},
+        {"question": "Pot adăuga articole juridice?", "answer": "Da, CMS-ul permite adăugarea de articole pentru SEO și autoritate."}
+      ]
+    },
+    "site-pentru-service-auto": {
+      "category": "industrii",
+      "h1": "SITE PENTRU<br><span class=\"outline\">SERVICE AUTO</span>",
+      "hero_pill": "Website Service Auto",
+      "hero_subtitle": "Site profesional pentru service auto. Programări online și promovare servicii.",
+      "seo_keywords": "site service auto, website atelier auto, site vulcanizare, prezentare service auto",
+      "page_title": "Site pentru Service Auto | Sky.ro",
+      "intro_paragraph": "Service-ul tău auto are nevoie de clienți fideli. Creăm site-uri pentru ateliere auto care atrag șoferi noi și construiesc încredere.",
+      "benefits": ["Lista servicii complete", "Sistem programări", "Galerie lucrări", "Mărcile deservite", "SEO local", "Design industrial"],
+      "trust_signals": "30+ service-uri auto clienți. Programări zilnice de pe site.",
+      "keyword_variations": ["site atelier auto", "website vulcanizare", "site mecanic auto"],
+      "cta_text": "Atrage mai mulți clienți",
+      "cta_button": "ÎNCEPE PROIECTUL",
+      "faq": [
+        {"question": "Pot programa online pentru service?", "answer": "Da, adăugăm sistem de programări cu confirmare automată."},
+        {"question": "Funcționează pe mobil?", "answer": "Da, designul este fully responsive pentru toate dispozitivele."}
+      ]
+    },
+    "site-pentru-firma-constructii": {
+      "category": "industrii",
+      "h1": "SITE PENTRU FIRMĂ<br><span class=\"outline\">CONSTRUCȚII</span>",
+      "hero_pill": "Website Construcții",
+      "hero_subtitle": "Site profesional pentru firma de construcții. Portofoliu proiecte și generare de oferte.",
+      "seo_keywords": "site firmă construcții, website construcții, site antreprenor, prezentare companie construcții",
+      "page_title": "Site pentru Firmă Construcții | Sky.ro",
+      "intro_paragraph": "O firmă de construcții are nevoie de un site care să展示 expertiza. Creăm website-uri care impresionează clienții și partenerii.",
+      "benefits": ["Portofoliu proiecte", "Servicii complete", "Echipă și utilaje", "Certificări", "Formular de contact", "SEO pentru construcții"],
+      "trust_signals": "25+ firme de construcții clienți. Proiecte câștigate datorită prezenței online.",
+      "keyword_variations": ["site antreprenor", "website firmă construcții", "site constructor"],
+      "cta_text": "Impresionează-ți clienții",
+      "cta_button": "SOLICITĂ OFERTĂ",
+      "faq": [
+        {"question": "Pot adăuga galerii foto din proiecte?", "answer": "Da, și recomandăm să adaugi cât mai multe poze din șantiere."},
+        {"question": "Include secțiune de testimoniale?", "answer": "Da, adăugăm testimoniale de la clienți și parteneri."}
+      ]
+    },
+    "optimizare-google-business-profile": {
+      "category": "local-seo",
+      "h1": "OPTIMIZARE GOOGLE<br><span class=\"outline\">BUSINESS PROFILE</span>",
+      "hero_pill": "GBP Optimization",
+      "hero_subtitle": "Optimizăm profilul Google Business pentru poziții de top. Vizibilitate maximă în Google Maps.",
+      "seo_keywords": "optimizare Google Business Profile, GBP, profil business Google, optimizare profil companie",
+      "page_title": "Optimizare Google Business Profile | Sky.ro",
+      "intro_paragraph": "Google Business Profile este esențial pentru firmele locale. Un profil optimizat te ajută să apari în căutările din apropiere și atrage clienți noi.",
+      "benefits": ["Profil complet 100%", "Categorii optimizate", "Fotografii profesionale", "Postări regulate", "Management recenzii", "Raportare lunară"],
+      "trust_signals": "200+ profile optimizate. Multe ajunse pe poziția 1 în Maps.",
+      "keyword_variations": ["optimizare GBP", "Google My Business", "profil business optimizat"],
+      "cta_text": "Apari primul în Google Maps",
+      "cta_button": "OPTIMIZEAZĂ ACUM",
+      "faq": [
+        {"question": "Cât durează optimizarea?", "answer": "2-3 săptămâni pentru o optimizare completă. Rezultate vizibile în 1-2 luni."},
+        {"question": "Ce include optimizarea?", "answer": "Completare toate câmpurile, poze, categorii, descriere, posts, și strategie de recenzii."},
+        {"question": "Lucrați și pentru multiple locații?", "answer": "Da, avem experiență cu lanțuri de peste 100 de locații."}
+      ]
+    },
+    "promovare-google-maps": {
+      "category": "local-seo",
+      "h1": "PROMOVARE<br><span class=\"outline\">GOOGLE MAPS</span>",
+      "hero_pill": "Maps Marketing",
+      "hero_subtitle": "Promovare pe Google Maps pentru afaceri locale. Atrage clienți din zona ta.",
+      "seo_keywords": "promovare Google Maps, marketing Maps, vizibilitate Google Maps, clasament Maps",
+      "page_title": "Promovare Google Maps | Sky.ro",
+      "intro_paragraph": "Promovarea pe Google Maps te ajută să ajungi la clienții care te caută în zona ta. Creștem vizibilitatea firmei tale în Maps.",
+      "benefits": ["Strategie completă Maps", "Postări regulate", "Management recenzii", "Promovare oferte", "Analiză competiție", "Raport lunar"],
+      "trust_signals": "150+ firme promovate. Trafic și apeluri crescute semnificativ.",
+      "keyword_variations": ["marketing local Google", "promovare Maps", "vizibilitate locală"],
+      "cta_text": "Cresc-ți vizibilitatea în Maps",
+      "cta_button": "ÎNCEPE PROMOVAREA",
+      "faq": [
+        {"question": "Când văd primele rezultate?", "answer": "Primele rezultate apar în 2-4 săptămâni. Creștere semnificativă în 2-3 luni."},
+        {"question": "Trebuie să am deja un profil?", "answer": "Nu, putem crea și optimiza profilul de la zero."}
+      ]
+    },
+    "gestionare-recenzii-google": {
+      "category": "local-seo",
+      "h1": "GESTIONARE RECENZII<br><span class=\"outline\">GOOGLE</span>",
+      "hero_pill": "Reviews Management",
+      "hero_subtitle": "Gestionăm recenziile Google pentru firma ta. Construim rating excelent și răspundem la toate review-urile.",
+      "seo_keywords": "gestionare recenzii Google, review-uri Google, management recenzii, reviews firma",
+      "page_title": "Gestionare Recenzii Google | Sky.ro",
+      "intro_paragraph": "Recenziile Google sunt cruciale pentru decizia clienților. Gestionăm și îmbunătățim rating-ul firmei tale pentru a atrage mai mulți clienți.",
+      "benefits": ["Monitorizare zilnică", "Răspuns la toate recenziile", "Strategie solicitare recenzii", "Gestionare recenzii negative", "Raport lunar", "Alertă notificări"],
+      "trust_signals": "Rating mediu crescut de la 3.5 la 4.7 pentru clienții noștri.",
+      "keyword_variations": ["management reviews", "recenzii Google business", "rating Google"],
+      "cta_text": "Îmbunătățește-ți rating-ul",
+      "cta_button": "ÎNCEPE GESTIONAREA",
+      "faq": [
+        {"question": "Cât de repede răspundeți la recenzii?", "answer": "În maxim 24 de ore, de luni până vineri."},
+        {"question": "Cum gestionați recenziile negative?", "answer": "Răspundem profesional și oferim soluții. Scopul este să transformăm negativity în positive."},
+        {"question": "Pot să răspund eu personal?", "answer": "Da, putem seta să primești notificări și să răspunzi tu, sau gestionăm tot."}
+      ]
+    },
+    "cum-sa-apari-pe-google-maps": {
+      "category": "local-seo",
+      "h1": "CUM SĂ APARI PE<br><span class=\"outline\">GOOGLE MAPS</span>",
+      "hero_pill": "Ghid Google Maps",
+      "hero_subtitle": "Ghid complet: cum să apari pe Google Maps. Tutorial pas cu pas pentru vizibilitate locală.",
+      "seo_keywords": "cum să apari pe Google Maps, apar în căutări Google Maps, listare Maps, înregistrare Google Maps",
+      "page_title": "Cum să Apari pe Google Maps | Sky.ro",
+      "intro_paragraph": "Vrei să știi cum să apari pe Google Maps? Îți explicăm totul - de la crearea profilului la optimizarea pentru poziții de top.",
+      "benefits": ["Ghid pas cu pas", "Sfaturi verificate", "Strategii testate", "Exemples concrete", "Tips & tricks", "Video tutorial"],
+      "trust_signals": "Ghid bazat pe experiența noastră cu 200+ firme locale.",
+      "keyword_variations": ["listare Google Maps", "cum să fiu găsit pe Maps", "apariție Google Maps"],
+      "cta_text": "Vrei ajutor profesionist?",
+      "cta_button": "SOLICITĂ SUPORT",
+      "faq": [
+        {"question": "Este gratuit să apar pe Google Maps?", "answer": "Da, crearea profilului Google Business este gratuită."},
+        {"question": "Cât durează până apar?", "answer": "În general 1-3 zile, dar poate dura până la 2 săptămâni pentru verificare."},
+        {"question": "De ce nu mă găsesc clienții?", "answer": "Poate lipsi verificarea, categoriile sunt greșite, sau profilul e incomplet. Te ajutăm să rezolvi."}
+      ]
+    },
+    "seo-local-romania": {
+      "category": "local-seo",
+      "h1": "SEO LOCAL<br><span class=\"outline\">ROMÂNIA</span>",
+      "hero_pill": "Local SEO România",
+      "hero_subtitle": "Servicii SEO local pentru România. Apari în căutările din orașul tău.",
+      "seo_keywords": "SEO local România, local SEO România, optimizare căutări locale România, SEO București",
+      "page_title": "SEO Local România | Sky.ro",
+      "intro_paragraph": "SEO local te ajută să apari în căutările oamenilor din zona ta. Specialiștii noștri te ajută să câștigi vizibilitate în România.",
+      "benefits": ["Audit SEO local", "Optimizare Google Business", "Content local", "Link building local", "Analiză competiție", "Raport lunar KPIs"],
+      "trust_signals": "100+ clienți cu rezultate măsurabile în SEO local România.",
+      "keyword_variations": ["SEO zona", "optimizare locală", "poziționare locală"],
+      "cta_text": "Apari în căutările locale",
+      "cta_button": "ÎNCEPE SEO",
+      "faq": [
+        {"question": "Lucrați în toată România?", "answer": "Da, lucrăm cu clienți din toate orașele României."},
+        {"question": "Cât costă SEO local?", "answer": "Începem de la 300 EUR/lună pentru pachete complete."},
+        {"question": "Când văd rezultate?", "answer": "Primele rezultate în 3-6 luni. SEO este un proces de durată."}
+      ]
+    },
+    "creare-site-bucuresti": {
+      "category": "locatie",
+      "h1": "CREARE SITE<br><span class=\"outline\">BUCUREȘTI</span>",
+      "hero_pill": "Web Design București",
+      "hero_subtitle": "Creăm site-uri web profesionale în București. Partenerul tău digital pentru afaceri în Capitală.",
+      "seo_keywords": "creare site București, site web București, dezvoltare site Capitală, web design București",
+      "page_title": "Creare Site București | Sky.ro",
+      "intro_paragraph": "Ești în București și cauți un partener pentru crearea site-ului? Suntem agenție de web design cu sediul în Capitală, specializați în soluții digitale pentru afaceri.",
+      "benefits": [" întâlniri fizice disponibile", "Support în limba română", "Proiecte locale", "Cunoașterea pieței locale", "Rapiditate livrare", "Suport post-lansare"],
+      "trust_signals": "50+ clienți în București. Multe recomandări de la firme mulțumite.",
+      "keyword_variations": ["web design București", "creare site Capitală", "site web Ilfov"],
+      "cta_text": "Hai să discutăm proiectul",
+      "cta_button": "PROGRAMEAZĂ ÎNTÂLNIRE",
+      "faq": [
+        {"question": "Lucrați doar în București?", "answer": "Nu, lucrăm cu clienți din toată România și remote."},
+        {"question": "Putem avea întâlnire fizică?", "answer": "Da, avem birou în București și ne putem întâlni."},
+        {"question": "Cunoașteți specificul pieței din București?", "answer": "Da, am lucrat cu zeci de companii din Capitală și înțelegem particularitățile."}
+      ]
+    },
+    "agentie-marketing-bucuresti": {
+      "category": "locatie",
+      "h1": "AGENȚIE MARKETING<br><span class=\"outline\">BUCUREȘTI</span>",
+      "hero_pill": "Marketing Digital Capitală",
+      "hero_subtitle": "Agenție de marketing digital în București. Toate serviciile de promovare online într-un singur loc.",
+      "seo_keywords": "agenție marketing București, agentie marketing Capitala, marketing digital București, publicitate online București",
+      "page_title": "Agenție Marketing București | Sky.ro",
+      "intro_paragraph": "Ești în căutarea unei agenții de marketing în București? Oferim servicii complete de marketing digital pentru companii din Capitală și din toată România.",
+      "benefits": ["Strategie integrată", "Social Media", "Google Ads", "SEO", "Content Marketing", "Email Marketing"],
+      "trust_signals": "40+ clienți corporate în București. Partener de marketing pentru companii mari.",
+      "keyword_variations": ["agentie marketing Capitala", "firma marketing București"],
+      "cta_text": "Cresc-ți afacerea cu marketing",
+      "cta_button": "SOLICITĂ CONSULTANȚĂ",
+      "faq": [
+        {"question": "Ce diferențiază agenția voastră?", "answer": "Abordare personalizată, transparență totală, și rezultate măsurabile."},
+        {"question": "Lucrați cu startup-uri?", "answer": "Da, avem pachete dedicate pentru startup-uri și firme mici."}
+      ]
+    },
+    "creare-magazin-online-bucuresti": {
+      "category": "locatie",
+      "h1": "CREARE MAGAZIN ONLINE<br><span class=\"outline\">BUCUREȘTI</span>",
+      "hero_pill": "E-Commerce București",
+      "hero_subtitle": "Magazine online în București. Soluții complete e-commerce pentru afaceri din Capitală.",
+      "seo_keywords": "creare magazin online București, e-commerce București, shop online Capitală, magazin virtual București",
+      "page_title": "Creare Magazin Online București | Sky.ro",
+      "intro_paragraph": "Vrei să vinzi online? Creăm magazine online profesionale pentru afaceri din București și din toată România.",
+      "benefits": ["Magazin complet", "Integrări plăți", "Suport logistic", "Training inclus", "Mentenanță", "Consultanță e-commerce"],
+      "trust_signals": "25+ magazine online în București. Clienții noștri vând cu succes.",
+      "keyword_variations": ["magazin virtual București", "e-commerce Capitală"],
+      "cta_text": "Începe să vinzi online",
+      "cta_button": "SOLICITĂ OFERTĂ",
+      "faq": [
+        {"question": "Oferiți și fotografiere produse?", "answer": "Da, avem parteneri pentru fotografie de produs în București."},
+        {"question": "Pot ridica personal magazinul?", "answer": "Da, oferim și întâlniri în București pentru training."}
+      ]
+    },
+    "optimizare-google-maps-bucuresti": {
+      "category": "locatie",
+      "h1": "OPTIMIZARE GOOGLE MAPS<br><span class=\"outline\">BUCUREȘTI</span>",
+      "hero_pill": "Local SEO București",
+      "hero_subtitle": "Optimizare Google Maps pentru firme din București. Vizibilitate maximă în Capitală.",
+      "seo_keywords": "optimizare Google Maps București, local SEO București, Maps Capitală, ranking Maps București",
+      "page_title": "Optimizare Google Maps București | Sky.ro",
+      "intro_paragraph": "Firma ta din București merită vizibilitate maximă în Google Maps. Optimizăm profilul tău pentru a atrage clienți din Capitală.",
+      "benefits": ["Optimizare completă GBP", "Strategie pentru București", "Competiție analiză", "Management recenzii", "Postări regulate", "Raport lunar"],
+      "trust_signals": "80+ firme din București optimizate. Rezultate demonstrate.",
+      "keyword_variations": ["SEO local București", "vizibilitate Maps Capitală"],
+      "cta_text": "Apari primul în Maps",
+      "cta_button": "ÎNCEPE ACUM",
+      "faq": [
+        {"question": "Cum este competiția în București?", "answer": "Foarte mare în multe domenii. De aceea e importantă optimizarea profesionistă."},
+        {"question": "Lucrați în toate sectoarele?", "answer": "Da, avem experiență în toate industriile din Capitală."}
+      ]
+    },
+    "servicii-marketing-online-romania": {
+      "category": "locatie",
+      "h1": "SERVICII MARKETING<br><span class=\"outline\">ONLINE ROMÂNIA</span>",
+      "hero_pill": "Marketing Digital Național",
+      "hero_subtitle": "Servicii complete de marketing online pentru afaceri din toată România. Creștere digitală pentru compania ta.",
+      "seo_keywords": "servicii marketing online România, marketing digital România, publicitate online țară, SEO România",
+      "page_title": "Servicii Marketing Online România | Sky.ro",
+      "intro_paragraph": "Oferim servicii de marketing digital pentru companii din toată România. Indiferent unde ești sediul, te ajutăm să crești online.",
+      "benefits": ["Strategie națională", "Acoperire toată țara", "Campanii geo-targetate", "SEO național", "Content în română", "Raportare comprehensivă"],
+      "trust_signals": "Clienți din toate regiunile României. Rezultate demonstrate la nivel național.",
+      "keyword_variations": ["marketing digital România", "publicitate online țară"],
+      "cta_text": "Cresc-ți afacerea în toată țara",
+      "cta_button": "SOLICITĂ OFERTĂ",
+      "faq": [
+        {"question": "Puteți targeta doar anumite orașe?", "answer": "Da, putem targeta foarte specific pe regiuni, orașe, sau la nivel național."},
+        {"question": "Lucrați și în engleză?", "answer": "Da, putem crea conținut și în alte limbi pentru piețe internaționale."}
+      ]
+    },
+    "cum-sa-imi-promovez-afacerea-online": {
+      "category": "blog",
+      "h1": "CUM SĂ ÎMI PROMOVEZ<br><span class=\"outline\">AFACEREA ONLINE</span>",
+      "hero_pill": "Ghid Promovare Business",
+      "hero_subtitle": "Ghid complet: cum să îți promovezi afacerea online. Strategii și tactici dovedite pentru creștere.",
+      "seo_keywords": "cum să îmi promovez afacerea online, promovare business online, marketing afacere, atragere clienți online",
+      "page_title": "Cum să Îmi Promov Afacerea Online | Sky.ro",
+      "intro_paragraph": "Vrei să știi cum să îți promovezi afacerea online? În acest ghid îți arătăm strategiile și tacticile pe care le folosim pentru clienții noștri.",
+      "benefits": ["Strategii testate", "Tactici concrete", "Exemple reale", "Budget options", "Timeline realist", "Metrics important"],
+      "trust_signals": "Ghid bazat pe experiența reală cu 150+ clienți.",
+      "keyword_variations": ["promovare afacere internet", "cum să atrag clienți online"],
+      "cta_text": "Vrei ajutor personalizat?",
+      "cta_button": "SOLICITĂ CONSULTAȚIE",
+      "faq": [
+        {"question": "Ce canal de marketing este cel mai bun?", "answer": "Depinde de afacerea ta. Unele funcționează bine cu SEO, altele cu social media sau Google Ads."},
+        {"question": "Cât trebuie să investesc în marketing?", "answer": "Începând de la 300 EUR/lună poți avea o prezență online solidă."}
+      ]
+    },
+    "cum-sa-imi-fac-un-site-pentru-firma": {
+      "category": "blog",
+      "h1": "CUM SĂ ÎMI FAC UN SITE<br><span class=\"outline\">PENTRU FIRMĂ</span>",
+      "hero_pill": "Ghid Creare Site Firmă",
+      "hero_subtitle": "Ghid complet: cum să îți faci un site pentru firmă. De la alegerea domeniului la lansare.",
+      "seo_keywords": "cum să îmi fac un site pentru firmă, creare site companie, website firma, pași creare site web",
+      "page_title": "Cum să Îmi Fac un Site pentru Firmă | Sky.ro",
+      "intro_paragraph": "Vrei să îți faci un site pentru firmă dar nu știi de unde să începi? Îți explicăm totul în acest ghid complet.",
+      "benefits": ["Pași clari", "Alegerea domeniului", "Design tips", "Content advice", "SEO basics", "Lansare și întreținere"],
+      "trust_signals": "Ghid util pentru oricine vrea să înțeleagă procesul de creare site.",
+      "keyword_variations": ["site pentru firmă", "creare site companie"],
+      "cta_text": "Lasă-ne să te ajutăm",
+      "cta_button": "VORBEȘTE CU NOI",
+      "faq": [
+        {"question": "Pot face site-ul singur?", "answer": "Da, cu platforme like Wix sau WordPress. Dar pentru rezultate profesionale, recomandăm o agenție."},
+        {"question": "Cât costă un site simplu?", "answer": "Poți începe cu 500-1000 EUR pentru un site profesional."}
+      ]
+    },
+    "idei-reels-instagram-pentru-business": {
+      "category": "blog",
+      "h1": "IDEI REELS INSTAGRAM<br><span class=\"outline\">PENTRU BUSINESS</span>",
+      "hero_pill": "Content Ideas",
+      "hero_subtitle": "Idei creative de Reels pentru Instagram. Cum să creezi conținut care atrage și convertește.",
+      "seo_keywords": "idei reels Instagram business, conținut reels firme, reels marketing, video Instagram afaceri",
+      "page_title": "Idei Reels Instagram pentru Business | Sky.ro",
+      "intro_paragraph": "Cauți idei pentru Reels Instagram? Îți oferim zeci de idei testate pentru a crea conținut care crește engagement-ul și aduce clienți.",
+      "benefits": ["50+ idei concrete", "Idei per industrie", "Tips de producție", "Trending sounds", "Hashtag strategy", "Posting frequency"],
+      "trust_signals": "Bazat pe trendurile care funcționează în 2024.",
+      "keyword_variations": ["idei video Instagram", "content reels business"],
+      "cta_text": "Vrei să creăm conținutul pentru tine?",
+      "cta_button": "SOLICITĂ OFERTĂ",
+      "faq": [
+        {"question": "Cât de des ar trebui să postez Reels?", "answer": "3-5 pe săptămână este optim pentru creștere."},
+        {"question": "Trebuie să apar în video?", "answer": "Nu obligatoriu, dar prezența ta crește încrederea."}
+      ]
+    },
+    "cum-sa-atragi-clienti-online": {
+      "category": "blog",
+      "h1": "CUM SĂ ATRAGI<br><span class=\"outline\">CLIENȚI ONLINE</span>",
+      "hero_pill": "Ghid Atragere Clienți",
+      "hero_subtitle": "Cum să atragi clienți online cu strategii dovedite. Ghid complet pentru creșterea afacerii tale.",
+      "seo_keywords": "cum să atragi clienți online, atragere clienți internet, conversii online, clienti web",
+      "page_title": "Cum să Atragi Clienți Online | Sky.ro",
+      "intro_paragraph": "Atragerea clienților online este esențială pentru orice afacere modernă. Îți arătăm cum să procedezi pentru rezultate concrete.",
+      "benefits": ["Strategii multiple", "Funnel explicat", "Landing pages", "Lead magnets", "Email marketing", "Analytics"],
+      "trust_signals": "Strategii folosite cu succes de clienții noștri.",
+      "keyword_variations": ["atragere clienti digital", "cum sa castigi clienti online"],
+      "cta_text": "Implementăm strategia pentru tine",
+      "cta_button": "DISCUTĂM?",
+      "faq": [
+        {"question": "Care este cea mai rapidă metodă?", "answer": "Google Ads și Meta Ads oferă rezultate rapide. SEO durează mai mult dar e mai ieftin."},
+        {"question": "Cât de repede văd clienți noi?", "answer": "Cu reclame plătite, în câteva zile. Cu SEO, în 3-6 luni."}
+      ]
+    },
+    "strategii-marketing-pentru-firme-mici": {
+      "category": "blog",
+      "h1": "STRATEGII MARKETING<br><span class=\"outline\">PENTRU FIRME MICI</span>",
+      "hero_pill": "Marketing pentru IMM-uri",
+      "hero_subtitle": "Strategii de marketing eficiente pentru firme mici. Buget redus, rezultate maxime.",
+      "seo_keywords": "strategii marketing firme mici, marketing IMM, tactică marketing companii mici, creștere business mic",
+      "page_title": "Strategii Marketing pentru Firme Mici | Sky.ro",
+      "intro_paragraph": "Firmele mici au nevoie de strategii de marketing adaptate bugetelor lor. Îți oferim tactici concrete care funcționează.",
+      "benefits": ["Buget redus", "Tactici rapide", "Local targeting", "Social proof", "Content marketing", "Networking digital"],
+      "trust_signals": "Multe firme mici au crescut folosind strategiile noastre.",
+      "keyword_variations": ["marketing firme mici", "promovare IMM", "tactici marketing"],
+      "cta_text": "Cresc-ți firma cu marketing",
+      "cta_button": "ÎNCEPE ACUM",
+      "faq": [
+        {"question": "Pot face marketing cu 200 EUR/lună?", "answer": "Da, cu focus pe organic (SEO, social media) poți obține rezultate."},
+        {"question": "Ce este mai important: website sau social media?", "answer": "Ambele sunt importante. Începe cu website+Google Business, apoi adaugă social media."}
+      ]
+    },
+    "cum-sa-apari-primul-pe-google": {
+      "category": "blog",
+      "h1": "CUM SĂ APARI PRIMUL<br><span class=\"outline\">PE GOOGLE</span>",
+      "hero_pill": "Ghid SEO Primul Loc",
+      "hero_subtitle": "Cum să apari pe prima pagină Google. Strategii SEO pentru poziții de top.",
+      "seo_keywords": "cum să apari primul pe Google, poziție 1 Google, SEO primul rezultat, ranking Google",
+      "page_title": "Cum să Apari Primul pe Google | Sky.ro",
+      "intro_paragraph": "Vrei să apari primul pe Google? Îți explicăm exact ce trebuie să faci pentru a câștiga poziția 1 în căutări.",
+      "benefits": ["Audit SEO", "On-page optimization", "Link building", "Content strategy", "Technical SEO", "Local SEO"],
+      "trust_signals": "Zeci de clienți pe prima pagină Google pentru cuvintele cheie importante.",
+      "keyword_variations": ["poziție 1 google", "primul rezultat google", "ranking top google"],
+      "cta_text": "Te ajutăm să ajungi pe locul 1",
+      "cta_button": "ÎNCEPE SEO",
+      "faq": [
+        {"question": "Cât durează să ajung pe prima pagină?", "answer": "În funcție de competiție, poate dura de la 3 luni la 1 an."},
+        {"question": "Pot să garantezi poziția 1?", "answer": "Nimeni nu poate garanta asta. Promitem muncă profesionistă și rezultate măsurabile."},
+        {"question": "Este SEO suficient sau am nevoie și de ads?", "answer": "Ambele funcționează diferit. Ads pentru rezultate rapide, SEO pentru long-term."}
+      ]
+    }
+  }
+}

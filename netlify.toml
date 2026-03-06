@@ -1,0 +1,20 @@
+[build]
+  publish = "."
+  command = ""
+
+[[forms]]
+  name = "contact"
+  fields = [
+    { name = "name", label = "Nume" },
+    { name = "email", label = "Email" },
+    { name = "phone", label = "Telefon" },
+    { name = "project_type", label = "Tip Proiect" },
+    { name = "budget", label = "Buget" }
+  ]
+
+[[forms.submissions]]
+  email = {
+    from = "noreply@haionline.ro"
+    to = "bogdan.epure@sky.ro,sorin.pintilie@sky.ro"
+    subject = "Nouă cerere de ofertă de pe Sky.ro"
+  }

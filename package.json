@@ -1,0 +1,8 @@
+{
+  "name": "haionline",
+  "version": "1.0.0",
+  "description": "Sky.ro website with Netlify Functions",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.0"
+  }
+}

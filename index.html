@@ -719,33 +719,29 @@ function handleSubmit(btn) {
   const projectType = document.querySelector('input[name="proj"]:checked').value;
   const budget = document.getElementById('budgetNum').textContent;
   
-  // Set hidden field values for Netlify
-  document.getElementById('projectTypeField').value = projectType;
-  document.getElementById('budgetField').value = budget;
-  
-  // For Netlify Forms
   btn.textContent = 'SE TRIMITE...';
   btn.disabled = true;
   
-  // Submit using Netlify Forms encode
-  const formData = new FormData(form);
-  fetch('/', {
+  // Submit to Netlify Function
+  fetch('/.netlify/functions/sendmail', {
     method: 'POST',
-    body: formData
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      name: name,
+      email: email,
+      phone: phone,
+      project_type: projectType,
+      budget: budget
+    })
   })
-  .then(response => {
-    if (response.ok || response.status === 200) {
-      btn.textContent = '✓ TE CONTACTĂM CURÂND';
-      btn.style.background = 'transparent';
-      btn.style.color = '#fff';
-      document.getElementById('nameInp').value = '';
-      document.getElementById('phoneInp').value = '';
-      document.getElementById('emailInp').value = '';
-    } else {
-      btn.textContent = 'TRIMIS!';
-      btn.style.background = 'transparent';
-      btn.style.color = '#fff';
-    }
+  .then(response => response.text())
+  .then(data => {
+    btn.textContent = '✓ TE CONTACTĂM CURÂND';
+    btn.style.background = 'transparent';
+    btn.style.color = '#fff';
+    document.getElementById('nameInp').value = '';
+    document.getElementById('phoneInp').value = '';
+    document.getElementById('emailInp').value = '';
   })
   .catch(error => {
     btn.textContent = '✓ TE CONTACTĂM CURÂND';

@@ -1,6 +1,7 @@
 [build]
   publish = "."
   command = ""
+  functions = "netlify/functions"
 
 [[forms]]
   name = "contact"
@@ -13,4 +14,4 @@
   ]
 
 [[forms.submissions]]
-  email = { from = "noreply@haionline.ro", to = "bogdan.epure@sky.ro,sorin.pintilie@sky.ro", subject = "Nouă cerere de ofertă de pe Sky.ro" }
+  email = { from = "sorin.pintilie@sky.ro", to = "bogdan.epure@sky.ro,sorin.pintilie@sky.ro", subject = "Nouă cerere de ofertă de pe Sky.ro" }

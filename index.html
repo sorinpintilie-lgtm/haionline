@@ -212,7 +212,7 @@ input[type=range]::-moz-range-thumb { width: 22px; height: 22px; background: #ff
 
 .panel {
   background: #0a0a0a; padding: 48px 40px;
-  position: relative; overflow: hidden;
+  position: relative; overflow: visible;
   min-height: 360px; display: flex;
   flex-direction: column; justify-content: flex-end; flex-shrink: 0;
 }
@@ -396,42 +396,13 @@ footer small { font-size: 0.78rem; color: #bbb; }
       </div>
 
       <button class="btn-submit" onclick="handleSubmit(this)">VREAU O OFERTĂ GRATUITĂ</button>
-      <p class="form-note">Prin trimiterea formularului, ești de acord cu <a href="/termeni-si-conditii" style="color:rgba(255,255,255,0.5);text-decoration:underline;">Termenii și Condițiile</a> și <a href="/politica-de-confidentialitate" style="color:rgba(255,255,255,0.5);text-decoration:underline;">Politica de Confidențialitate</a>.</p>
+      <p class="form-note">Prin trimiterea formularului, ești de acord cu <a href="/termeni-si-conditii.html" style="color:rgba(255,255,255,0.5);text-decoration:underline;">Termenii și Condițiile</a> și <a href="/politica-de-confidentialitate.html" style="color:rgba(255,255,255,0.5);text-decoration:underline;">Politica de Confidențialitate</a>.</p>
 
     </form>
   </div>
 </section>
 
-<!-- SECOND FORM SECTION -->
-<section class="second-form" id="form2">
-  <div class="second-form-inner">
-    <h2>NU MAI ASTEAPTA.<br><span class="outline">ÎNCEPE ACUM.</span></h2>
-    <p class="second-form-sub">Completează formularul și un consultant te va contacta în maxim 24 de ore.</p>
-    
-    <form class="form-box" id="form2Box" name="contact2" data-netlify="true" action="/">
-      <input type="hidden" name="form-name" value="contact2">
-      <input type="text" name="bot-field2" style="display:none">
-      
-      <div class="email-row">
-        <input type="text" id="nameInp2" placeholder="Numele tău" autocomplete="name">
-      </div>
-      <div class="email-row">
-        <input type="tel" id="phoneInp2" placeholder="Număr de telefon" autocomplete="tel">
-      </div>
-      <div class="email-row">
-        <input type="email" id="emailInp2" placeholder="emailul@tau.ro" inputmode="email" autocomplete="email">
-      </div>
-      <div class="email-row">
-        <textarea id="messageInp2" placeholder="Spune-ne despre proiectul tău..." rows="3" style="width:100%;padding:15px 18px;background:rgba(255,255,255,0.07);border:1.5px solid rgba(255,255,255,0.18);color:#fff;font-family:'Manrope',sans-serif;font-size:1rem;font-weight:400;outline:none;transition:border-color .2s;-webkit-appearance:none;min-height:100px;border-radius:4px;resize:vertical;"></textarea>
-      </div>
-      
-      <button class="btn-submit" onclick="handleSubmit2(this)">TRIMITE MESAJUL</button>
-      <p class="form-note">Prin trimiterea acestui formular, ești de acord cu <a href="/termeni-si-conditii" style="color:rgba(255,255,255,0.5);text-decoration:underline;">Termenii și Condițiile</a> și <a href="/politica-de-confidentialitate" style="color:rgba(255,255,255,0.5);text-decoration:underline;">Politica de Confidențialitate</a>.</p>
-    </form>
-  </div>
-</section>
-
-<!-- INTRO SECTION (Dynamic) -->
+<!-- FAQ SECTION (Dynamic) -->
 <div class="intro-section" id="introSection" style="display:none;">
   <div class="intro-container">
     <p class="intro-text" id="introText"></p>
@@ -588,6 +559,35 @@ footer small { font-size: 0.78rem; color: #bbb; }
   </div>
 </section>
 
+<!-- SECOND FORM SECTION -->
+<section class="second-form" id="form2">
+  <div class="second-form-inner">
+    <h2>NU MAI ASTEAPTA.<br><span class="outline">ÎNCEPE ACUM.</span></h2>
+    <p class="second-form-sub">Completează formularul și un consultant te va contacta în maxim 24 de ore.</p>
+    
+    <form class="form-box" id="form2Box" name="contact2" data-netlify="true" action="/">
+      <input type="hidden" name="form-name" value="contact2">
+      <input type="text" name="bot-field2" style="display:none">
+      
+      <div class="email-row">
+        <input type="text" id="nameInp2" placeholder="Numele tău" autocomplete="name">
+      </div>
+      <div class="email-row">
+        <input type="tel" id="phoneInp2" placeholder="Număr de telefon" autocomplete="tel">
+      </div>
+      <div class="email-row">
+        <input type="email" id="emailInp2" placeholder="emailul@tau.ro" inputmode="email" autocomplete="email">
+      </div>
+      <div class="email-row">
+        <textarea id="messageInp2" placeholder="Spune-ne despre proiectul tău..." rows="3" style="width:100%;padding:15px 18px;background:rgba(255,255,255,0.07);border:1.5px solid rgba(255,255,255,0.18);color:#fff;font-family:'Manrope',sans-serif;font-size:1rem;font-weight:400;outline:none;transition:border-color .2s;-webkit-appearance:none;min-height:100px;border-radius:4px;resize:vertical;"></textarea>
+      </div>
+      
+      <button class="btn-submit" onclick="handleSubmit2(this)">TRIMITE MESAJUL</button>
+      <p class="form-note">Prin trimiterea acestui formular, ești de acord cu <a href="/termeni-si-conditii.html" style="color:rgba(255,255,255,0.5);text-decoration:underline;">Termenii și Condițiile</a> și <a href="/politica-de-confidentialitate.html" style="color:rgba(255,255,255,0.5);text-decoration:underline;">Politica de Confidențialitate</a>.</p>
+    </form>
+  </div>
+</section>
+
 <!-- FAQ SECTION (Dynamic) -->
 <div class="faq-section" id="faqSection" style="display:none;">
   <div class="faq-container">
@@ -599,8 +599,8 @@ footer small { font-size: 0.78rem; color: #bbb; }
 <!-- FOOTER -->
 <footer>
   <div class="footer-links">
-    <a href="/termeni-si-conditii">Termeni și Condiții</a>
-    <a href="/politica-de-confidentialitate">Politica de Confidențialitate</a>
+    <a href="/termeni-si-conditii.html">Termeni și Condiții</a>
+    <a href="/politica-de-confidentialitate.html">Politica de Confidențialitate</a>
   </div>
   <small>© 2026 Sky.ro. Toate drepturile rezervate.</small>
 </footer>

@@ -804,6 +804,36 @@
         {"question": "Pot să garantezi poziția 1?", "answer": "Nimeni nu poate garanta asta. Promitem muncă profesionistă și rezultate măsurabile."},
         {"question": "Este SEO suficient sau am nevoie și de ads?", "answer": "Ambele funcționează diferit. Ads pentru rezultate rapide, SEO pentru long-term."}
       ]
+    },
+    "termeni-si-conditii": {
+      "category": "legal",
+      "h1": "TERMENI ȘI<br><span class=\"outline\">CONDIȚII</span>",
+      "hero_pill": "Informații Legale",
+      "hero_subtitle": "Termenii și condițiile de utilizare a site-ului Sky.ro",
+      "seo_keywords": "termeni și condiții, termeni de utilizare, condiții sky.ro, utilizare site",
+      "page_title": "Termeni și Condiții | Sky.ro",
+      "intro_paragraph": "Acesti Termeni și Condiții guvernează utilizarea site-ului web Sky.ro și a serviciilor oferite de agenția noastră de marketing digital și dezvoltare web.",
+      "benefits": ["Informații complete", "Transparență totală", "Protecția datelor", " drepturile utilizatorilor", "Obligațiile părților", "Dispute și soluționare"],
+      "trust_signals": "Respectăm legislația română și europeană în vigoare.",
+      "keyword_variations": ["condiții utilizare", "termeni servicii", "acord utilizator"],
+      "cta_text": "Ai întrebări?",
+      "cta_button": "CONTACT",
+      "faq": []
+    },
+    "politica-de-confidentialitate": {
+      "category": "legal",
+      "h1": "POLITICA DE<br><span class=\"outline\">CONFIDENȚIALITATE</span>",
+      "hero_pill": "Protecția Datelor",
+      "hero_subtitle": "Cum protejăm și procesăm datele tale personale",
+      "seo_keywords": "politică de confidențialitate, protectia datelor, GDPR, date personale sky.ro",
+      "page_title": "Politica de Confidențialitate | Sky.ro",
+      "intro_paragraph": "Sky.ro respectă confidențialitatea și protecția datelor tale personale. Această politică explică ce date colectăm, cum le folosim și cum le protejăm.",
+      "benefits": ["Date criptate", "GDPR compliant", "Controlul datelor", "Drepturile tale", "Retragere consimțământ", "Securitate avansată"],
+      "trust_signals": "Suntem conformi cu RGPD (GDPR) și legislația română privind protecția datelor.",
+      "keyword_variations": ["politica cookies", "prelucrare date", "drepturile utilizatorilor GDPR"],
+      "cta_text": "Exercită-ți drepturile",
+      "cta_button": "CONTACT",
+      "faq": []
     }
   }
 }

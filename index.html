@@ -278,6 +278,26 @@ footer small { font-size: 0.78rem; color: #bbb; }
 .dynamic-cta-btn { display: inline-block; background: #0a0a0a; color: #fff; padding: 16px 40px; font-size: 1rem; letter-spacing: 2px; text-decoration: none; border: 2.5px solid #0a0a0a; }
 .dynamic-cta-btn:hover { background: #fff; color: #0a0a0a; }
 
+/* SECOND FORM SECTION */
+.second-form { background: #0a0a0a; padding: 80px 5%; border-bottom: 2px solid rgba(255,255,255,0.1); }
+.second-form-inner { max-width: 600px; margin: 0 auto; text-align: center; }
+.second-form h2 { font-family: 'Manrope', sans-serif; font-size: clamp(2rem, 6vw, 3.5rem); line-height: 0.95; letter-spacing: 1px; color: #fff; margin-bottom: 20px; }
+.second-form h2 .outline { color: transparent; -webkit-text-stroke: 2px #fff; }
+.second-form-sub { font-size: 1rem; color: rgba(255,255,255,0.5); margin-bottom: 40px; font-weight: 300; }
+
+/* CLIENT LOGOS CAROUSEL */
+.client-logos { background: #fafafa; padding: 60px 5%; border-bottom: 2px solid #e8e8e8; overflow: hidden; }
+.client-logos-inner { display: flex; align-items: center; }
+.client-logos-track { display: flex; animation: scroll-logos 25s linear infinite; }
+.client-logos-track:hover { animation-play-state: paused; }
+@keyframes scroll-logos {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.client-logo-item { flex-shrink: 0; padding: 0 40px; display: flex; align-items: center; justify-content: center; }
+.client-logo-item img { max-height: 48px; width: auto; filter: grayscale(100%) opacity(0.6); transition: filter 0.3s, transform 0.3s; }
+.client-logo-item:hover img { filter: grayscale(0%) opacity(1); transform: scale(1.05); }
+
 @media (min-width: 760px) {
   .below-inner { flex-direction: row; align-items: flex-start; }
   .below-text { flex: 1.1; padding-right: 60px; }
@@ -296,8 +316,8 @@ footer small { font-size: 0.78rem; color: #bbb; }
 
 <!-- NAV -->
 <nav>
-  <a href="#" class="logo"><img src="skyro-LOGO-6A-final -without tagline-01 (1).png" alt="Sky.ro"></a>
-  <a href="#form" class="nav-cta">ÎNCEPE PROIECTUL</a>
+  <a href="https://www.sky.ro" class="logo"><img src="skyro-LOGO-6A-final -without tagline-01 (1).png" alt="Sky.ro"></a>
+  <a href="#form2" class="nav-cta">ÎNCEPE PROIECTUL</a>
 </nav>
 
 <!-- HERO -->
@@ -376,8 +396,37 @@ footer small { font-size: 0.78rem; color: #bbb; }
       </div>
 
       <button class="btn-submit" onclick="handleSubmit(this)">VREAU O OFERTĂ GRATUITĂ</button>
-      <p class="form-note">Fără angajament. Îți răspundem în maxim 24 de ore.</p>
+      <p class="form-note">Prin trimiterea formularului, ești de acord cu <a href="/termeni-si-conditii" style="color:rgba(255,255,255,0.5);text-decoration:underline;">Termenii și Condițiile</a> și <a href="/politica-de-confidentialitate" style="color:rgba(255,255,255,0.5);text-decoration:underline;">Politica de Confidențialitate</a>.</p>
 
+    </form>
+  </div>
+</section>
+
+<!-- SECOND FORM SECTION -->
+<section class="second-form" id="form2">
+  <div class="second-form-inner">
+    <h2>NU MAI ASTEAPTA.<br><span class="outline">ÎNCEPE ACUM.</span></h2>
+    <p class="second-form-sub">Completează formularul și un consultant te va contacta în maxim 24 de ore.</p>
+    
+    <form class="form-box" id="form2Box" name="contact2" data-netlify="true" action="/">
+      <input type="hidden" name="form-name" value="contact2">
+      <input type="text" name="bot-field2" style="display:none">
+      
+      <div class="email-row">
+        <input type="text" id="nameInp2" placeholder="Numele tău" autocomplete="name">
+      </div>
+      <div class="email-row">
+        <input type="tel" id="phoneInp2" placeholder="Număr de telefon" autocomplete="tel">
+      </div>
+      <div class="email-row">
+        <input type="email" id="emailInp2" placeholder="emailul@tau.ro" inputmode="email" autocomplete="email">
+      </div>
+      <div class="email-row">
+        <textarea id="messageInp2" placeholder="Spune-ne despre proiectul tău..." rows="3" style="width:100%;padding:15px 18px;background:rgba(255,255,255,0.07);border:1.5px solid rgba(255,255,255,0.18);color:#fff;font-family:'Manrope',sans-serif;font-size:1rem;font-weight:400;outline:none;transition:border-color .2s;-webkit-appearance:none;min-height:100px;border-radius:4px;resize:vertical;"></textarea>
+      </div>
+      
+      <button class="btn-submit" onclick="handleSubmit2(this)">TRIMITE MESAJUL</button>
+      <p class="form-note">Prin trimiterea acestui formular, ești de acord cu <a href="/termeni-si-conditii" style="color:rgba(255,255,255,0.5);text-decoration:underline;">Termenii și Condițiile</a> și <a href="/politica-de-confidentialitate" style="color:rgba(255,255,255,0.5);text-decoration:underline;">Politica de Confidențialitate</a>.</p>
     </form>
   </div>
 </section>
@@ -419,6 +468,35 @@ footer small { font-size: 0.78rem; color: #bbb; }
   <div class="proof-item">
     <span class="proof-num">24H</span>
     <div class="proof-lbl">Timp de Răspuns</div>
+  </div>
+</div>
+
+<!-- CLIENT LOGOS CAROUSEL -->
+<div class="client-logos">
+  <div class="client-logos-inner">
+    <div class="client-logos-track">
+      <div class="client-logo-item"><img src="logos/artisdenta logo.png" alt="Artis Denta"></div>
+      <div class="client-logo-item"><img src="logos/logo (1).png" alt="Client"></div>
+      <div class="client-logo-item"><img src="logos/logo (2).png" alt="Client"></div>
+      <div class="client-logo-item"><img src="logos/logo (3).png" alt="Client"></div>
+      <div class="client-logo-item"><img src="logos/logo_2.png" alt="Client"></div>
+      <div class="client-logo-item"><img src="logos/logohr (1).png" alt="HR Client"></div>
+      <div class="client-logo-item"><img src="logos/Sdental.png" alt="S Dental"></div>
+      <div class="client-logo-item"><img src="logos/logo_v1_Școala de Beauty.png" alt="Școala de Beauty"></div>
+      <div class="client-logo-item"><img src="logos/logo_pink.png" alt="Client"></div>
+      <div class="client-logo-item"><img src="logos/logo_bakery-removebg-preview.png" alt="Bakery"></div>
+      <!-- Duplicate for infinite scroll -->
+      <div class="client-logo-item"><img src="logos/artisdenta logo.png" alt="Artis Denta"></div>
+      <div class="client-logo-item"><img src="logos/logo (1).png" alt="Client"></div>
+      <div class="client-logo-item"><img src="logos/logo (2).png" alt="Client"></div>
+      <div class="client-logo-item"><img src="logos/logo (3).png" alt="Client"></div>
+      <div class="client-logo-item"><img src="logos/logo_2.png" alt="Client"></div>
+      <div class="client-logo-item"><img src="logos/logohr (1).png" alt="HR Client"></div>
+      <div class="client-logo-item"><img src="logos/Sdental.png" alt="S Dental"></div>
+      <div class="client-logo-item"><img src="logos/logo_v1_Școala de Beauty.png" alt="Școala de Beauty"></div>
+      <div class="client-logo-item"><img src="logos/logo_pink.png" alt="Client"></div>
+      <div class="client-logo-item"><img src="logos/logo_bakery-removebg-preview.png" alt="Bakery"></div>
+    </div>
   </div>
 </div>
 
@@ -521,8 +599,8 @@ footer small { font-size: 0.78rem; color: #bbb; }
 <!-- FOOTER -->
 <footer>
   <div class="footer-links">
-    <a href="#">Termeni de Utilizare</a>
-    <a href="#">Politică de Confidențialitate</a>
+    <a href="/termeni-si-conditii">Termeni și Condiții</a>
+    <a href="/politica-de-confidentialitate">Politica de Confidențialitate</a>
   </div>
   <small>© 2026 Sky.ro. Toate drepturile rezervate.</small>
 </footer>
@@ -745,6 +823,67 @@ function handleSubmit(btn) {
   })
   .catch(error => {
     btn.textContent = '✓ TE CONTACTĂM CURÂND';
+    btn.style.background = 'transparent';
+    btn.style.color = '#fff';
+  });
+}
+
+function handleSubmit2(btn) {
+  const nameInp = document.getElementById('nameInp2');
+  const phoneInp = document.getElementById('phoneInp2');
+  const emailInp = document.getElementById('emailInp2');
+  const messageInp = document.getElementById('messageInp2');
+  const name = nameInp.value.trim();
+  const phone = phoneInp.value.trim();
+  const email = emailInp.value.trim();
+  const message = messageInp.value.trim();
+  
+  if (!name) {
+    nameInp.style.borderColor = 'rgba(255,80,80,0.8)';
+    nameInp.focus();
+    setTimeout(() => nameInp.style.borderColor = '', 1600);
+    return;
+  }
+  if (!phone) {
+    phoneInp.style.borderColor = 'rgba(255,80,80,0.8)';
+    phoneInp.focus();
+    setTimeout(() => phoneInp.style.borderColor = '', 1600);
+    return;
+  }
+  if (!email || !email.includes('@')) {
+    emailInp.style.borderColor = 'rgba(255,80,80,0.8)';
+    emailInp.focus();
+    setTimeout(() => emailInp.style.borderColor = '', 1600);
+    return;
+  }
+  
+  btn.textContent = 'SE TRIMITE...';
+  btn.disabled = true;
+  
+  // Submit to Netlify Function
+  fetch('/.netlify/functions/sendmail', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      name: name,
+      email: email,
+      phone: phone,
+      message: message,
+      project_type: 'contact_form_2'
+    })
+  })
+  .then(response => response.text())
+  .then(data => {
+    btn.textContent = '✓ MESAJ TRIMIS';
+    btn.style.background = 'transparent';
+    btn.style.color = '#fff';
+    document.getElementById('nameInp2').value = '';
+    document.getElementById('phoneInp2').value = '';
+    document.getElementById('emailInp2').value = '';
+    document.getElementById('messageInp2').value = '';
+  })
+  .catch(error => {
+    btn.textContent = '✓ MESAJ TRIMIS';
     btn.style.background = 'transparent';
     btn.style.color = '#fff';
   });
